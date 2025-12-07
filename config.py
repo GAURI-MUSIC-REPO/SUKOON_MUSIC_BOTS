@@ -9,7 +9,7 @@ API_ID = int(getenv("API_ID"))
 API_HASH = getenv("API_HASH")
 
 BOT_TOKEN = getenv("BOT_TOKEN")
-OWNER_USERNAME = getenv("OWNER_USERNAME","ll_ISTKHAR_BABY_lll")
+OWNER_USERNAME = getenv("OWNER_USERNAME","lll_GOD_FATHER_PAPA_lll")
 BOT_USERNAME = getenv("BOT_USERNAME" , "Syn_Ixbot")
 BOT_NAME = getenv("BOT_NAME" , "˹sᴏɴᴧʟɪ ꭙ ᴍᴜsɪᴄ˼ ♪ [ ᴛᴘʙ ]™")
 ASSUSERNAME = getenv("ASSUSERNAME" , "ALPHA")
@@ -19,18 +19,18 @@ LOGGER_ID = int(getenv("LOGGER_ID", -1002584168578))
 OWNER_ID = int(getenv("OWNER_ID", 7995626429))
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/khushi-exize/KRITI_PUBLIC",)
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/GAURI-MUSIC-REPO/SUKOON_MUSIC_BOTS",)
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 API_URL = getenv("API_URL", 'https://pytdbotapi.thequickearn.xyz') #youtube song url
 VIDEO_API_URL = getenv("VIDEO_API_URL", 'https://api.video.thequickearn.xyz')
-API_KEY = getenv("API_KEY", 'NxGBNexGenBots790d34') # youtube song api key, generate free key or buy paid plan from panel.thequickearn.xyz
+API_KEY = getenv("API_KEY", 'NxGBNexGenBots254c6b') # youtube song api key, generate free key or buy paid plan from panel.thequickearn.xyz
 
 
 PRIVACY_LINK = getenv("PRIVACY_LINK", "https://telegra.ph/Privacy-Policy-for-YukkiMusic-08-30")
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/exizemusicupdate")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/exizemusicsupport")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/SUKOON_ALL_DP")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/GOD_KI_DUNIYA")
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
 AUTO_LEAVE_ASSISTANT_TIME = int(getenv("ASSISTANT_LEAVE_TIME", "9000"))
 SONG_DOWNLOAD_DURATION = int(getenv("SONG_DOWNLOAD_DURATION", "9999999"))
